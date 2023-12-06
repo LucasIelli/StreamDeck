@@ -1,0 +1,12 @@
+# Visual Studio Code
+.vscode
+.DS_Store
+# Node
+node_modules
+*.log
+.env
+# Build directories
+/build
+/dist
+# Other
+Test
